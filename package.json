@@ -1,6 +1,6 @@
 {
   "name": "react-gym-website",
-  "homepage": "",
+  "homepage": "https://mumtajguddu.github.io/gym-app",
   "version": "1.0.0",
   "description": "A modern responsive gym website built with React.js, featuring a homepage slider, services, trainers, membership plans, contact form, and authentication.",
   "main": "src/index.js",
